@@ -6,10 +6,10 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-# UUID = "309167ea-c123-4ca7-bf5b-39fd3d755aad"
+# UUID = "f6b0d4ba-63bf-4662-8d44-81c79136dfe4"
 # PROXYIP = "1.2.3.4"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "309167ea-c123-4ca7-bf5b-39fd3d755aad"
+UUID = "f6b0d4ba-63bf-4662-8d44-81c79136dfe4"
